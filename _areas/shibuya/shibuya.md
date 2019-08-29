@@ -1,0 +1,4 @@
+Area_Name: "Shibuya"
+Area_Description: "Shibuya is one of Tokyo’s busiest, bustling, and diverse areas. You can find anything from the huge Shibuya 109 department stores to streets littered with delicious ramen restaurants. There are thousands of restaurants, stores, and attractions that could keep you busy for days on end. The main Shibuya area, right by the train station with the same name, is most famous for the Hachiko memorial monument, and the surrounding Shibuya crossing, sometimes dubbed Tokyo’s Time Square."
+Area_Picture:_from_Shutterstock: "https://www.shutterstock.com/image-photo/shibuya-tokyo-japan-crosswalk-cityscape-762493978?src=rZuS18GzwgGcpg9EGE47jA-1-0"
+---

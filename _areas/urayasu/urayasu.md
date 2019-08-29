@@ -1,0 +1,4 @@
+Area_Name: "Koto/Urayasu/Disney"
+Area_Description: "Located Northeast of Tokyo and on into the Chiba Prefecture you’ll find Koto-ku, Urayasu, and the beloved Disney Theme Parks. While Disney is not the only thing to do in the area, it will be the main attraction here, and could have a full guide to itself. Besides the Park, the surrounding area is very coastal and has great sealine, a beautiful view of the ocean, and other fun stuff we’ve included."
+Area_Picture:_from_Shutterstock: "asdf"
+---

@@ -1,0 +1,4 @@
+Area_Name: "Roppongi"
+Area_Description: "Roppongi is located in central Tokyo, and known for its famous Roppongi Hills development, as well as its entertainment and night scenes. It is home to major shopping centers, a huge business district, famous art galleries, and is popular with both foreigners and locals because of its huge variety on the food scene. The iconic Tokyo Tower is located near here as well. At night, it’s like Shinjuku, it’s not dangerous persay, but you will want to be aware of your surroundings, and probably not accept offers for free drinks or discounts if people are trying to get you into a bar. There are plenty of legitimate establishments that won’t try to coerce you into their place by offering deals that are too good to be true."
+Area_Picture:_from_Shutterstock: "https://www.shutterstock.com/image-photo/panorama-view-over-tokyo-tower-cityscape-1357210541?src=GtRtj5QP9PcdNmGMq_reQQ-1-18"
+---

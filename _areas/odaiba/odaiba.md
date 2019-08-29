@@ -1,0 +1,4 @@
+Area_Name: "Odaiba and Toyosu"
+Area_Description: "Odaiba is a man-made island located East of Central Tokyo. It has a shoreline with bay access, and is famous for its entertainment. The popular digital art museum exhibit is found here, as well as numerous indoor gaming districts, museums and shopping."
+Area_Picture:_from_Shutterstock: "asdf"
+---

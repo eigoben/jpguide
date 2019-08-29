@@ -1,0 +1,4 @@
+Area_Name: "Shinjuku"
+Area_Description: "One of the wards of central Tokyo, Shinjuku is home to one of the major business, entertainment, and shopping districts. The Shinjuku station is one of the busiest in the world, and can be extremely hard to navigate. Once you get out of the station and on to exploring Shinjuku, Around you’ll find many things to do, see and eat. Shinjuku is also home to Tokyo’s red light district, Kabukicho, but don’t worry, as long as you stay out of there at night, you’ll be completely safe. After that, explore at your own risk. It’s still probably 100x safer than the Bronx, Compton or inner city Chicago at night, so don’t worry too much if you find yourself there after dark. Just keep to yourself and you’ll be fine."
+Area_Picture:_from_Shutterstock: "https://www.shutterstock.com/image-photo/tokyo-japan-may-7-2017-crowds-635797538?src=ykvnfGW28ALoBiL5srNsbQ-1-1"
+---

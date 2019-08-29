@@ -1,0 +1,4 @@
+Area_Name: "Asakusa"
+Area_Description: "If I were to guess, I would say that Asakusa and the surrounding area, which includes Sky Tree, is known as the absolute tourist hub for Tokyo. There are so many notable attractions and delicious eateries that keeps this place buzzing. Some of these streets feature outdoor shopping markets that will be super crowded, even for Japan’s standards, and you’ll feel like you’re swimming through a sea of people as you try to get the best deal on souvenirs. Five minutes later you’ll find yourself in a street that looks like it’s been trapped in time, and you’ll swear you are now in the 1400s.  Have fun and relish the experiences and views from this area of Tokyo."
+Area_Picture:: "https://cdn.pixabay.com/photo/2017/03/23/01/44/asakusa-2167039_960_720.jpg"
+---
