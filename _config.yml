@@ -19,14 +19,8 @@ description: >- # this means to ignore newlines until "baseurl:"
   Visiting Japan can be the experience of a lifetime--if you know how to get the most of it. The good news is that it doesn't take thousands of dollars spent on tours! We've compiled the ultimate travel guide to help you have the perfect time during your stay in Japan.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: jekyllrb
-github_username:  jekyll
-
-# Build settings
-markdown: kramdown
-theme: minima
-plugins:
-  - jekyll-feed
+# twitter_username: jekyllrb
+# github_username:  jekyll
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list

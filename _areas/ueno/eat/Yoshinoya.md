@@ -3,7 +3,7 @@ Name: "Yoshinoya"
 Category: "asdf"
 Comments: "asdf"
 Hours: "asdf"
-Price:
-Address/Google_Map_Link: "asdf"
+Price: "¥"
+Map: "asdf"
 Picture: "asdf"
 ---
