@@ -1,0 +1,14 @@
+<div id="tostay" class="col-xl-6 col-lg-7 ml-auto mr-auto">
+    <h3 class="title">All Areas:</h3>
+    {% for post in site.areas %}
+    <div class="card card-profile">
+        <div class="row">
+            <div class="col-md-8">
+                <div class="card-body">
+                    <h3 class="card-title"><a href="{{post.url}}">{{post.areaname}}</a></h3>
+                </div>
+            </div>
+        </div>
+    </div>
+    {% endfor %}
+</div>

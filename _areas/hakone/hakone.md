@@ -1,4 +1,0 @@
-Area_Name: "Hakone/Odawara"
-Area_Description: "The Hakone and Odawara areas are located West of Tokyo, and South of Mt Fuji. Odawara is a town frozen in time, with a huge castle, and a classical Japanese feel. Close-by Hakone is a resort area with some great hot springs (onsen) hotels where you can relax and explore the surrounding countryside. Some of you may know of Hakone because of the viral video showing the resort where you can swim in pools of sake, wine, green tea and other beverages."
-Area_Picture:_from_Shutterstock: "asdf"
----

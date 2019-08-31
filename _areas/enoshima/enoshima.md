@@ -1,4 +1,0 @@
-Area_Name: "Enoshima"
-Area_Description: "At just over 100 acres, Enoshima is a very small, but jam-packed, complete-Japanese-experience island located just south of Tokyo in the neighboring Kanagawa prefecture. The Iwaya cave, a sea candle-style lighthouse, hot springs, and Enoshima Shrine are just a few of the highlights to this incredible location situated just off the mainland. Take your time, see it all, and you’ll always remember your time well spent!"
-Area_Picture:: "https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Enoshima%2C_Japan_%2815662062438%29.jpg/800px-Enoshima%2C_Japan_%2815662062438%29.jpg"
----

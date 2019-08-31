@@ -1,0 +1,13 @@
+---
+rank: 
+layout: guide-layout
+area: "Nikko"
+guide: "toeat"
+name: "Sukiya"
+category: "Japanese, beef bowls"
+comments: "wonderful Japanese chain serving beef bowls with rice, and curry"
+hours: "24/7"
+price: "¥400 and up"
+map: "https://www.google.com/maps/place/Sukiya+Imaichiserinumaten/@36.7399742,139.7075622,17z/data=!3m1!4b1!4m5!3m4!1s0x601f7540773e0509:0xc7ecd663efdcd373!8m2!3d36.7399742!4d139.7097509"
+tripadvisor: "https://www.tripadvisor.com/Restaurant_Review-g298183-d15127859-Reviews-Sukiya_4Go_Utsunomiya_Imaizumi-Utsunomiya_Tochigi_Prefecture_Kanto.html"
+---
